@@ -1,6 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import {ReactComponent as Spinner} from './BSicon_ANCHOR030.svg'
 
 function App() {
   return (
